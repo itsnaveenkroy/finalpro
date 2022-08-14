@@ -1,3 +1,3 @@
-# finalpro
+# Future Ready Talent Procejt
 this is my final frt project
-#azure link https://calm-sky-00440b210.1.azurestaticapps.net/
+#My azure Website link https://calm-sky-00440b210.1.azurestaticapps.net/
