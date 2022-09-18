@@ -1,6 +1,6 @@
 ## Future Ready Talent Project
 This is my final frt project
-##My azure Website link https://calm-sky-00440b210.1.azurestaticapps.net/
+##My azure Website link https://black-sea-012eb7c10.1.azurestaticapps.net
 
 ## HomePage
 ![image](https://user-images.githubusercontent.com/111221243/184535946-8560fb45-8e52-4db9-bb59-0b1718af8c3f.png)
