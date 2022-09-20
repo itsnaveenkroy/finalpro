@@ -3,38 +3,44 @@ This is my final frt project
 ## My azure Website link https://black-sea-012eb7c10.1.azurestaticapps.net
 
 ## HomePage
-![image](https://user-images.githubusercontent.com/111221243/190911633-21803e36-32b0-4866-8c7d-6cb115c5f56e.png)
-![image](https://user-images.githubusercontent.com/111221243/190911646-4dfcdab0-2011-4e5a-b8ce-60e12107db49.png)
-![image](https://user-images.githubusercontent.com/111221243/190911651-8287b501-cd05-4527-8cd3-9e8b427ff2cb.png)
-![image](https://user-images.githubusercontent.com/111221243/190911668-a48b5c5c-b4b0-4b07-a26e-b37a40578cff.png)
-![image](https://user-images.githubusercontent.com/111221243/190911677-68440607-8a84-4cfa-a1fc-b340a4ff41b5.png)
-![image](https://user-images.githubusercontent.com/111221243/190911684-ebad818d-2a6d-47e7-9110-b6252dc67629.png)
-![image](https://user-images.githubusercontent.com/111221243/190911694-19c904c8-a497-4911-b855-6c5a74608b85.png)
+![image](https://user-images.githubusercontent.com/111221243/191233404-a6b111ef-d5d2-4940-a753-4a515b8c388f.png)
+![image](https://user-images.githubusercontent.com/111221243/191233467-f679b977-278a-40a2-ae35-0ab5fe972327.png)
+![image](https://user-images.githubusercontent.com/111221243/191233499-2c696981-ed78-48ff-b808-e049f234f218.png)
+![image](https://user-images.githubusercontent.com/111221243/191233522-4eb4b9e4-45e0-44f7-9a27-42a88830dfa1.png)
+![image](https://user-images.githubusercontent.com/111221243/191233552-77dd211c-3de6-40ff-a508-318119ac4987.png)
+![image](https://user-images.githubusercontent.com/111221243/191233616-7eb832d9-803d-483d-84eb-6dfd8597e9ee.png)
+![image](https://user-images.githubusercontent.com/111221243/191233697-2c0f3768-2fe1-4d9f-84af-646a388b00e6.png)
+
 
 
 ## About
 
-![image](https://user-images.githubusercontent.com/111221243/190911710-ed8a302f-4c0b-47dd-bac6-cf9535308d6b.png)
-![image](https://user-images.githubusercontent.com/111221243/190911716-c99ab545-0eca-4d70-9e3a-57690552c4c7.png)
-![image](https://user-images.githubusercontent.com/111221243/190911727-df9f143f-dded-4f7c-a771-6724b6341c64.png)
-![image](https://user-images.githubusercontent.com/111221243/190911742-4292fa09-82ec-42fe-8c80-669049fcfa0a.png)
-![image](https://user-images.githubusercontent.com/111221243/190911749-a6fa3786-4724-4675-98db-77149c1ddd07.png)
-![image](https://user-images.githubusercontent.com/111221243/190911760-2aea966e-865b-42ce-8c61-c0507aa07d34.png)
+![image](https://user-images.githubusercontent.com/111221243/191233763-f7f5cfda-1366-49b2-9d57-5a919b4b1cff.png)
+![image](https://user-images.githubusercontent.com/111221243/191233817-2dcbd04b-99bb-4fe6-aad4-1c8666e870c9.png)
+![image](https://user-images.githubusercontent.com/111221243/191233849-47bb8f86-e154-4668-aa84-3a43a9e1b930.png)
+![image](https://user-images.githubusercontent.com/111221243/191233882-7ebd8f6a-45c4-44dd-b437-7c3fe4c549c1.png)
+![image](https://user-images.githubusercontent.com/111221243/191233988-dc4308b0-3d99-40cf-967b-5137e50d6dd6.png)
+![image](https://user-images.githubusercontent.com/111221243/191234024-9d246807-1768-44e9-9110-d915054f906d.png)
+
 
 
 ## Courses
-![image](https://user-images.githubusercontent.com/111221243/190911772-6783ed81-36e8-484b-b587-53872d78ed69.png)
-![image](https://user-images.githubusercontent.com/111221243/190911779-78dba72a-b2b0-4a4f-91d2-99c081e92d48.png)
-![image](https://user-images.githubusercontent.com/111221243/190911785-6788c1bd-1c33-421d-9ece-869302b38302.png)
 
+![image](https://user-images.githubusercontent.com/111221243/191234118-18c7e814-f925-421e-a0b5-697719d1a3d4.png)
+![image](https://user-images.githubusercontent.com/111221243/191234149-c1afbc63-c93b-4da4-a693-688490785018.png)
+![image](https://user-images.githubusercontent.com/111221243/191234180-1fd3ad60-4fb2-4aa3-80db-3c2403cb66d9.png)
+![image](https://user-images.githubusercontent.com/111221243/191234215-d23c87a5-7a39-4e6e-808c-b281b8032130.png)
 
 ##Contact Us
-![image](https://user-images.githubusercontent.com/111221243/190911805-b9e3ee91-f796-445d-b57b-6754455e6e6f.png)
-![image](https://user-images.githubusercontent.com/111221243/190911817-1dec56ec-99b3-4df7-8291-5894fa140b62.png)
-![image](https://user-images.githubusercontent.com/111221243/190911820-b895b130-754f-43cc-8dcb-5d3d979a4109.png)
-![image](https://user-images.githubusercontent.com/111221243/190911827-fc31ed16-f4f2-4000-b00a-4e5469e4506d.png)
+
+![image](https://user-images.githubusercontent.com/111221243/191234267-a9e5ad9e-17b3-4248-abd9-505725cd0436.png)
+![image](https://user-images.githubusercontent.com/111221243/191234303-94161f53-a3fd-47fc-89b0-c4aecc7220c5.png)
+![image](https://user-images.githubusercontent.com/111221243/191234324-ea3c20dd-36d6-450d-8ea7-8535d99f40cb.png)
+![image](https://user-images.githubusercontent.com/111221243/191234344-9eacd1e7-5fdf-4365-8be3-5e1ae2c3393e.png)
+
 
 ##Search
 
-![image](https://user-images.githubusercontent.com/111221243/190911837-5925e17f-c02c-4671-b3ae-0fc78eb7220a.png)
+![image](https://user-images.githubusercontent.com/111221243/191234394-3301f78a-6c50-4227-b96a-fa2a8f1863e8.png)
+
 
